@@ -13,5 +13,5 @@
 ```sh
 
 # NPM
-npm install slick-carousel
+npm i
 ```
