@@ -6,3 +6,12 @@
 - CSS
 - JavaScript
 - Wepback
+
+
+#### Для инициализации проекта
+
+```sh
+
+# NPM
+npm install slick-carousel
+```
