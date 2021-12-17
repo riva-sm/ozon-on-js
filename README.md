@@ -3,7 +3,7 @@
 
 В работе использовались:
 - HTML
-- CSS
+- SCSS
 - JavaScript
 - Wepback
 
