@@ -6,6 +6,7 @@
 - SCSS
 - JavaScript
 - Wepback
+- FireBase
 
 
 #### Для инициализации проекта
